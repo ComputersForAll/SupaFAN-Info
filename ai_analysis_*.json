@@ -1,14 +1,20 @@
 {
-  "script_version": "2.0.0",
-  "channel_metadata": { ... },
-  "scanned_videos": [
-    {
-      "video_id": "abc123",
-      "title": "Video Title",
-      "views": "10000",
-      "sample_comments": [
-        {"author": "User", "text": "Full comment text", "likes": 5}
-      ]
-    }
-  ]
+  "script_version": "1.0.0",
+  "openrouter_analysis": {
+    "inferred_topic": "DIY robotics and electronics",
+    "content_themes": ["3D printing", "Arduino", "sensors"],
+    "knowledge_web": {
+      "key_entities": ["Adafruit", "Raspberry Pi"],
+      "technical_concepts": ["PID control", "GPIO"]
+    },
+    "extracted_hidden_data": {
+      "social_links": ["https://github.com/username"],
+      "contact_emails": []
+    },
+    "audience_and_community": {
+      "community_engagement_level": "High, technical discussions"
+    },
+    "sentiment_and_tone": "Enthusiastic, educational",
+    "osint_summary_assessment": "Channel is run by an individual hobbyist..."
+  }
 }
