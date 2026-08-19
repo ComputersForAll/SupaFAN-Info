@@ -99,7 +99,7 @@ Please ensure any example data remains anonymised.
 
 ## 📜 License
 
-This documentation repository is released under the **MIT License** – feel free to reuse, adapt, and share.
+This documentation repository is released under no license (consider it under the public domain, but the main repo is not) – feel free to reuse, adapt, and share.
 
 ---
 
