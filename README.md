@@ -25,11 +25,6 @@ All sample data has been **anonymised** (channel IDs, video IDs, names, and comm
 ```markdown
 SupaFAN-Info/
 ├── README.md                         # You are here
-├── docs/
-│   ├── pipeline-overview.md          # High‑level architecture
-│   ├── api-keys-setup.md             # How to obtain and configure API keys
-│   ├── output-format.md              # Explanation of JSON fields & info.txt structure
-│   └── troubleshooting.md            # Common errors and solutions
 ├── examples/
 │   ├── sample-output/                # Redacted report samples
 │   │   ├── channel_stats_sample.json
@@ -41,6 +36,10 @@ SupaFAN-Info/
 ├── APP_README.md # The App Readme
 ├── accuracy # an accuracy report
 ├──AppLicense # the main app's license
+├── pipeline-overview.md          # High‑level architecture
+├── api-keys-setup.md             # How to obtain and configure API keys
+├── output-format.md              # Explanation of JSON fields & info.txt structure
+└── troubleshooting.md            # Common errors and solutions
 ```
 
 ---
