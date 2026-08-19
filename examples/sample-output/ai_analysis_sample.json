@@ -1,0 +1,27 @@
+{
+  "script_version": "1.0.0",
+  "generated_at": "2026-08-19T14:32:10+00:00",
+  "channel_title": "[REDACTED]",
+  "openrouter_analysis": {
+    "inferred_topic": "Educational electronics and maker projects",
+    "content_themes": ["3D printing", "Arduino", "sensors", "robotics"],
+    "knowledge_web": {
+      "key_entities": ["Adafruit Industries", "SparkFun", "Raspberry Pi Foundation"],
+      "technical_concepts": ["PID control", "I2C protocol", "GPIO"],
+      "recurring_motifs": ["Failed experiments", "bench power supplies"]
+    },
+    "extracted_hidden_data": {
+      "contact_emails": ["info@[REDACTED].com"],
+      "social_links": ["https://github.com/[REDACTED]"],
+      "external_domains": ["https://[REDACTED].com"],
+      "potential_names_or_aliases": ["[REDACTED]"]
+    },
+    "audience_and_community": {
+      "audience_demographic_estimate": "STEM students, hobbyists aged 16-35",
+      "community_engagement_level": "Very high: technical troubleshooting in comments",
+      "common_feedback_or_questions": ["Can you make a video on X?", "What power supply do you use?"]
+    },
+    "sentiment_and_tone": "Passionate, detailed, instructor-like with occasional humor",
+    "osint_summary_assessment": "This channel is operated by an experienced electrical engineer. No major OPSEC leaks detected, but the GitHub link reveals a full name."
+  }
+}
