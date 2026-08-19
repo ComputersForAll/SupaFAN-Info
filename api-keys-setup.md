@@ -66,3 +66,4 @@ A lightweight summary of the channel.
   "scanned_videos_count": 25,
   "total_comments_collected": 320
 }
+---
