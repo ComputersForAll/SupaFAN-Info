@@ -1,7 +1,7 @@
 # SupaFAN-Info – Documentation & Examples
 
 ![Static Badge](https://img.shields.io/badge/SupaFAN-Info-blue?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![License](https://img.shields.io/badge/License-No%20License%20For%20Info-green?style=for-the-badge)
 
 **Companion repository for the SupaFAN YouTube OSINT pipeline**  
 Here you'll find comprehensive documentation, usage guides, and sanitized sample outputs – all without exposing any real user data.
