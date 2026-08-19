@@ -1,0 +1,27 @@
+{
+  "script_version": "1.0.0",
+  "generated_at": "2026-08-19T14:32:10+00:00",
+  "channel_metadata": {
+    "channel_id": "UC_[REDACTED]",
+    "title": "[REDACTED]"
+  },
+  "scanned_videos": [
+    {
+      "video_id": "[REDACTED]",
+      "title": "How to build a [REDACTED]",
+      "views": "500000",
+      "likes": "32000",
+      "comment_count": "1200",
+      "duration_human": "12m 30s",
+      "tags": ["DIY", "electronics"],
+      "description": "This video explains how to build a [REDACTED]...",
+      "sample_comments": [
+        {
+          "author": "[REDACTED]",
+          "text": "Great tutorial, thanks!",
+          "likes": 42
+        }
+      ]
+    }
+  ]
+}
