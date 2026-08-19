@@ -43,7 +43,10 @@ text
 
 ---
 
-### File 3: `docs/output-format.md`
+
+---
+
+### File 3: `output-format.md`
 
 ```markdown
 # Output Format Reference
@@ -66,4 +69,3 @@ A lightweight summary of the channel.
   "scanned_videos_count": 25,
   "total_comments_collected": 320
 }
----
