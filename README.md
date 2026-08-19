@@ -38,6 +38,9 @@ SupaFAN-Info/
 │   │   └── info_sample.txt
 │   └── sample-commands.md            # CLI usage examples with different options
 └── .gitignore                        # Ensures no real data is ever committed
+├── APP_README.md # The App Readme
+├── accuracy # an accuracy report
+├──AppLicense # the main app's license
 ```
 
 ---
