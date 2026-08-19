@@ -27,3 +27,42 @@ In the root of the SupaFAN main repository, copy `sample.env` to `.env`:
 
 ```bash
 cp sample.env .env
+```
+Open .env and fill in your keys:
+```
+YOUTUBE_API_KEY=AIzaSyXXXXXXXXXXXXXXXXXXXXXXXXXXX
+OPENROUTER_API_KEY=sk-or-v1-YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY
+```
+Optionally set a preferred model (default is openrouter/free):
+```OPENROUTER_MODEL=google/gemma-3-27b-it:free ```
+as an example
+4. Verify
+Run the pipeline with any target. If the pre‑flight check passes, your keys are working.
+
+text
+
+---
+
+### File 3: `docs/output-format.md`
+
+```markdown
+# Output Format Reference
+
+SupaFAN generates four files per run.
+
+## 1. `channel_stats_*.json`
+A lightweight summary of the channel.
+
+```json
+{
+  "script_version": "2.0.0",
+  "generated_at": "2026-08-19T14:32:10+00:00",
+  "channel_metadata": {
+    "title": "Sample Channel",
+    "subscriber_count": "123456",
+    "view_count": "1234567",
+    "video_count": "42"
+  },
+  "scanned_videos_count": 25,
+  "total_comments_collected": 320
+}
