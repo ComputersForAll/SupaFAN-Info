@@ -1,0 +1,12 @@
+The exhaustive human‑readable report. It has four distinct sections:
+
+Section 1 – Complete Channel Telemetry (all raw metadata).
+
+Section 2 – AI OSINT & Pattern Analysis (JSON + readable highlights).
+
+Section 3 – Granular Video & Comment Log (every video, every comment).
+
+Section 4 – Pipeline Execution Summary (runtime, API calls, errors).
+
+This is the master file — suitable for forensic archiving or manual review.
+
