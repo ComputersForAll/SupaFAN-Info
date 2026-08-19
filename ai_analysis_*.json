@@ -1,0 +1,14 @@
+{
+  "script_version": "2.0.0",
+  "channel_metadata": { ... },
+  "scanned_videos": [
+    {
+      "video_id": "abc123",
+      "title": "Video Title",
+      "views": "10000",
+      "sample_comments": [
+        {"author": "User", "text": "Full comment text", "likes": 5}
+      ]
+    }
+  ]
+}
