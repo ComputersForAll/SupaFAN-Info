@@ -110,5 +110,3 @@ This documentation repository is released under no license (consider it under th
 ```
 
 ---
-
-This README is fully self‑contained and ready to be the front page of your new info repo. If you need any of the linked markdown files (`pipeline-overview.md`, etc.) written out as well, just ask – I'll supply them in one go.
